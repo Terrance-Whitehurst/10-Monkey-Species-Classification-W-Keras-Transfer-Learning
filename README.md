@@ -1,3 +1,5 @@
+![](images/monkey.jpg)
+
 # Project Overview
 In this project I used the keras deep learning library with kaggle's free gpu's and with a pre-trained model(resnet50) to do multi-classification on 10 Monkey Species deep learning image dataset from kaggle. I also use transfer learning and data augmentation along with dropout to fight over fitting. I also freeze the first three layers of the pretrained resnet50 to use the richer representation learned from the network in the later layers. My Model was able to reach an accuracy of 94%
 
