@@ -31,6 +31,6 @@ https://www.kaggle.com/slothkong/10-monkey-species
 
 # My Deep Learning Blog!
 
-![](images/headshot.jpg)
+![](headshot.jpg)
 
 https://medium.com/@TerranceWhitehurst
